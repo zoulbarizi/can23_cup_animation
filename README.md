@@ -1,7 +1,8 @@
 # can23_cup_animation
 
 Preview
-can_cup.gif
+<img src="/can_cup.gif"> </img>
+
 
 A new Flutter project.
 

@@ -1,5 +1,8 @@
 # can23_cup_animation
 
+Preview
+can_cup.gif
+
 A new Flutter project.
 
 ## Getting Started
